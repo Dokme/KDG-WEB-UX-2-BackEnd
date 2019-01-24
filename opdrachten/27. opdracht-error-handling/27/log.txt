@@ -1,0 +1,7 @@
+[23:16:21 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+[23:16:40 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+[23:17:09 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+[23:17:28 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+[23:17:29 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+[23:17:29 28:11:2018] - 127.0.0.1 - type:[error] De kortingscode heeft niet de juiste lengte
+

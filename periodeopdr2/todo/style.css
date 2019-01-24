@@ -1,0 +1,25 @@
+/* INDEX.PHP */
+
+.inputfield {
+    width: 400px;
+}
+
+.table-condensed {
+    border: 1px solid #e9ecef;
+}
+
+.fa-pen-square {
+    color: #FFBB00;
+  }
+
+.fa-minus-square {
+    color: #DF1717;  
+}
+
+.fa-check-square {
+    color: #0EA400; 
+}
+
+.succes {
+    color: #0EA400; 
+}
